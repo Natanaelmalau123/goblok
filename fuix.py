@@ -7,22 +7,11 @@ import os
 
 os.system("clear")
 
-print ("#########   ##      ##    ##") 
-print ("##          ##      ##    ##")
-print ("#########   ##      ##    ##")
-print ("##          ##      ##    ##") 
-print ("##          ##      ##    ##")
-print ("##          ##      ##    ##")  
-print ("##          ##########    ##")  
-
+print("------------------------------------------------------------")
 print       (" - - > TOOLS CREATED BY FUIX < - - ")
 print       (" - - > DISCORD : David1#3696<- - ")                                   
 print       (" - - > JOIN OUR COMMUNITY ME< - - ")
 print       (" - - > https://discord.gg/GaBpDrjx < - - ")
-
-print("------------------------------------------------------------")
-print(" »      Don't Abuse         «")
-print(" »   TOOLS BY FUIX!       «")
 print("------------------------------------------------------------")
 ip = str(input(" DDoSAttackByFuix | Ip:"))
 port = int(input(" DDoSAttackByFuix | Port:"))
