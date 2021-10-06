@@ -1,0 +1,5 @@
+git clone
+
+cd goblok
+
+python3 fuix.py
