@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-gege
 #Ddos by Fuix
 import random
 import socket
@@ -9,7 +8,7 @@ import os
 os.system("clear")
 
 print("------------------------------------------------------------")
-print       (" - - > TOOLS CREATED BY FUIX < - - ")
+print       (" - - > TOOLS CREATED BY KONTOL < - - ")
 print       (" - - > DISCORD : David1#3696<- - ")                                   
 print       (" - - > JOIN OUR COMMUNITY ME< - - ")
 print       (" - - > https://discord.gg/GaBpDrjx < - - ")
