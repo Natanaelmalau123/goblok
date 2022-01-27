@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+gege
 #Ddos by Fuix
 import random
 import socket
